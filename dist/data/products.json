@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "slug": "klasik-deri-canta",
+      "name": { "tr": "Klasik Deri Çanta", "en": "Classic Leather Bag", "de": "Klassische Lederhandtasche", "fr": "Sac en cuir classique", "pt": "Bolsa de couro clássica", "es": "Bolso de cuero clásico" },
+      "description": { "tr": "El yapımı tam deri, günlük kullanım için şık ve dayanıklı klasik çanta. İç bölmeleri ile düzenli kullanım.", "en": "Handcrafted full leather, elegant and durable classic bag for daily use. Organized with inner compartments.", "de": "Handgefertigte Vollledertasche, elegant und langlebig. Mit Innenfächern.", "fr": "Sac classique en cuir véritable, élégant et durable. Compartiments intérieurs.", "pt": "Bolsa clássica de couro legítimo, elegante e durável. Com divisórias internas.", "es": "Bolso clásico de cuero genuino, elegante y duradero. Con compartimentos interiores." },
+      "price": 899,
+      "image": "/data/images/1.png",
+      "category": "Aksesuar",
+      "colors": ["Siyah", "Kahverengi", "Bordo"],
+      "sizes": ["Tek Ebat"]
+    },
+    {
+      "id": "2",
+      "slug": "oversize-pamuk-tişört",
+      "name": { "tr": "Oversize Pamuk Tişört", "en": "Oversize Cotton T-Shirt", "de": "Oversize-Baumwollshirt", "fr": "T-shirt coton oversize", "pt": "Camiseta de algodão oversized", "es": "Camiseta de algodón oversize" },
+      "description": { "tr": "%100 organik pamuk, rahat kesim. Günlük giyim için ideal, yumuşak dokulu oversize tişört.", "en": "100% organic cotton, relaxed fit. Ideal for daily wear, soft oversize t-shirt.", "de": "100% Bio-Baumwolle, lockere Passform. Ideal für den Alltag.", "fr": "100% coton bio, coupe décontractée. Idéal au quotidien.", "pt": "100% algodão orgânico, caimento confortável. Ideal para o dia a dia.", "es": "100% algodón orgánico, corte relajado. Ideal para el día a día." },
+      "price": 249,
+      "image": "/data/images/2.png",
+      "category": "Giyim",
+      "colors": ["Beyaz", "Siyah", "Lacivert", "Gri"],
+      "sizes": ["S", "M", "L", "XL"]
+    },
+    {
+      "id": "3",
+      "slug": "spor-ayakkabi",
+      "name": { "tr": "Spor Ayakkabı", "en": "Sports Shoes", "de": "Sportschuhe", "fr": "Chaussures de sport", "pt": "Tênis esportivo", "es": "Zapatillas deportivas" },
+      "description": { "tr": "Hafif taban ve nefes alan üst yüzey. Koşu ve günlük kullanım için konforlu spor ayakkabı.", "en": "Lightweight sole and breathable upper. Comfortable for running and daily use.", "de": "Leichte Sohle und atmungsaktives Obermaterial. Bequem für Sport und Alltag.", "fr": "Semelle légère et empeigne respirante. Confortable pour le sport et le quotidien.", "pt": "Solado leve e cabedal respirável. Confortável para corrida e uso diário.", "es": "Suela ligera y parte superior transpirable. Cómodo para correr y uso diario." },
+      "price": 599,
+      "image": "/data/images/3.png",
+      "category": "Ayakkabı",
+      "colors": ["Beyaz", "Siyah", "Kırmızı"],
+      "sizes": ["39", "40", "41", "42", "43", "44"]
+    },
+    {
+      "id": "4",
+      "slug": "minimalist-saat",
+      "name": { "tr": "Minimalist Kol Saati", "en": "Minimalist Wristwatch", "de": "Minimalistische Armbanduhr", "fr": "Montre minimaliste", "pt": "Relógio minimalista", "es": "Reloj minimalista" },
+      "description": { "tr": "Paslanmaz çelik kasa, mineral cam. Şık ve sade tasarım, her kombinle uyumlu.", "en": "Stainless steel case, mineral crystal. Elegant minimalist design, matches every outfit.", "de": "Gehäuse aus Edelstahl, Mineralglas. Elegantes minimalistisches Design.", "fr": "Boîtier en acier inoxydable, verre minéral. Design élégant et minimaliste.", "pt": "Caixa em aço inox, cristal mineral. Design minimalista e elegante.", "es": "Caja de acero inoxidable, cristal mineral. Diseño elegante y minimalista." },
+      "price": 449,
+      "image": "/data/images/4select.png",
+      "category": "Aksesuar",
+      "colors": ["Gümüş", "Siyah", "Altın"],
+      "sizes": ["Tek Ebat"]
+    },
+    {
+      "id": "5",
+      "slug": "kot-ceket",
+      "name": { "tr": "Slim Fit Kot Ceket", "en": "Slim Fit Denim Jacket", "de": "Slim-Fit-Denimjacke", "fr": "Veste en jean slim fit", "pt": "Jaqueta jeans slim fit", "es": "Chaqueta vaquera slim fit" },
+      "description": { "tr": "Kaliteli denim kumaş, slim fit kesim. İlk yıkamada hafif çekme yapabilir.", "en": "Quality denim fabric, slim fit cut. May shrink slightly on first wash.", "de": "Hochwertiger Denim, Slim-Fit-Schnitt. Kann beim ersten Waschen leicht einlaufen.", "fr": "Jean de qualité, coupe slim fit. Peut rétrécir légèrement au premier lavage.", "pt": "Tecido jeans de qualidade, corte slim. Pode encolher levemente na primeira lavagem.", "es": "Tela vaquera de calidad, corte slim. Puede encogerse ligeramente en el primer lavado." },
+      "price": 549,
+      "image": "/data/images/5.png",
+      "category": "Giyim",
+      "colors": ["Açık Mavi", "Koyu Mavi", "Siyah"],
+      "sizes": ["S", "M", "L", "XL"]
+    }
+  ]
+}
